@@ -1,0 +1,80 @@
+ div img{
+    width: 200px;
+    height:250px;
+    border-radius: 100px;
+ }
+ ul,ul a {
+    float: right;
+    font-weight: bold;
+    text-decoration: none;
+    color: rgb(0, 170, 255);
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    text-transform: uppercase;
+     
+
+ }
+ ul li a{
+   margin-top: -230px;
+   margin-right: 50px;
+ }
+ ul li a:hover{
+  color: rgb(255, 123, 0);
+  transition: .6s ease;
+ }
+ ul li{
+  display: inline-block;
+ }
+ .info a{
+  text-decoration: none;
+  color: rgb(0, 170, 255) ;
+  font-weight: bold;
+  margin-left: 10px;
+  font-size: larger;
+ }
+ .info a:hover{
+  color:rgb(255, 132, 0);
+  transition:.5s ease;
+
+
+ }
+ h4{
+  font-size: larger;
+  
+ }
+ h2{
+  font-size: 3rem;
+ }
+  body{
+    background: url( https://images.unsplash.com/photo-1531297484001-80022131f5a1?q=80&w=1720&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-position: center;
+    background-size:cover;
+    width: 100%;
+    position: relative;
+    height: 100hv;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .info{
+    color: rgba(0, 191, 255, 0.639);
+  }
+  .info h1 span{
+    color: rgb(255, 119, 0);
+  }
+  h5{
+    font-family: lobster;
+    font-family:Arial, Helvetica, sans-serif; 
+    float: right;
+    margin-right: 20px;
+
+  }
+ h5:hover{
+  color: rgb(255, 119, 0);
+  transition: .5s ease;
+  
+
+ }
+
+ 
+
+ 
